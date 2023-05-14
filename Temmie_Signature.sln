@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{BF6F184B-7B30-49AB-9EAA-5F6307B54E0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{32C8BAFA-8A9F-4AEE-8383-5AEB1DD4FA00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repo", "Repo", "{D87181E2-92C0-4F7F-9DA6-D63C2BE941E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{8BFD35C5-EDD7-4A7C-8790-BDAD8E52256D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temmi_Signature.API", "Temmi_Signature.API\Temmi_Signature.API.csproj", "{D8213DA0-5F5A-4034-AFD9-38D58ADA4490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temmie_Signature.Core", "Temmie_Signature.Core\Temmie_Signature.Core.csproj", "{790D719B-7C1D-4D67-BFDB-758FB87E0C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temmie_Signature.Repo", "Temmie_Signature.Repo\Temmie_Signature.Repo.csproj", "{C312AF84-F948-4F82-A8C0-B96522D83532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temmie_Signature.Service", "Temmie_Signature.Service\Temmie_Signature.Service.csproj", "{6B8C7987-81FE-4BEF-BF44-AAB8F7C471A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8213DA0-5F5A-4034-AFD9-38D58ADA4490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8213DA0-5F5A-4034-AFD9-38D58ADA4490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8213DA0-5F5A-4034-AFD9-38D58ADA4490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8213DA0-5F5A-4034-AFD9-38D58ADA4490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790D719B-7C1D-4D67-BFDB-758FB87E0C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790D719B-7C1D-4D67-BFDB-758FB87E0C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790D719B-7C1D-4D67-BFDB-758FB87E0C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790D719B-7C1D-4D67-BFDB-758FB87E0C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C312AF84-F948-4F82-A8C0-B96522D83532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C312AF84-F948-4F82-A8C0-B96522D83532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C312AF84-F948-4F82-A8C0-B96522D83532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C312AF84-F948-4F82-A8C0-B96522D83532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8C7987-81FE-4BEF-BF44-AAB8F7C471A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8C7987-81FE-4BEF-BF44-AAB8F7C471A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8C7987-81FE-4BEF-BF44-AAB8F7C471A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8C7987-81FE-4BEF-BF44-AAB8F7C471A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8213DA0-5F5A-4034-AFD9-38D58ADA4490} = {BF6F184B-7B30-49AB-9EAA-5F6307B54E0B}
+		{790D719B-7C1D-4D67-BFDB-758FB87E0C0C} = {32C8BAFA-8A9F-4AEE-8383-5AEB1DD4FA00}
+		{C312AF84-F948-4F82-A8C0-B96522D83532} = {D87181E2-92C0-4F7F-9DA6-D63C2BE941E2}
+		{6B8C7987-81FE-4BEF-BF44-AAB8F7C471A3} = {8BFD35C5-EDD7-4A7C-8790-BDAD8E52256D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F2C47C9-6473-4279-866D-F4ADAF683933}
+	EndGlobalSection
+EndGlobal

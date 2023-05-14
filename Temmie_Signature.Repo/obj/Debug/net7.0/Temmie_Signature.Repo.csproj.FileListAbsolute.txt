@@ -1,0 +1,5 @@
+C:\Users\taiwo\Desktop\Temmie_Signature\Temmie_Signature.Repo\obj\Debug\net7.0\Temmie_Signature.Repo.csproj.AssemblyReference.cache
+C:\Users\taiwo\Desktop\Temmie_Signature\Temmie_Signature.Repo\obj\Debug\net7.0\Temmie_Signature.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taiwo\Desktop\Temmie_Signature\Temmie_Signature.Repo\obj\Debug\net7.0\Temmie_Signature.Repo.AssemblyInfoInputs.cache
+C:\Users\taiwo\Desktop\Temmie_Signature\Temmie_Signature.Repo\obj\Debug\net7.0\Temmie_Signature.Repo.AssemblyInfo.cs
+C:\Users\taiwo\Desktop\Temmie_Signature\Temmie_Signature.Repo\obj\Debug\net7.0\Temmie_Signature.Repo.csproj.CoreCompileInputs.cache
