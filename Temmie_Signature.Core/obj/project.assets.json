@@ -3670,19 +3670,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\taiwo\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taiwo\\Desktop\\Temmie_Signature\\Temmie_Signature.Core\\Temmie_Signature.Core.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Temmie_Signauture\\Temmie_Signature.Core\\Temmie_Signature.Core.csproj",
       "projectName": "Temmie_Signature.Core",
-      "projectPath": "C:\\Users\\taiwo\\Desktop\\Temmie_Signature\\Temmie_Signature.Core\\Temmie_Signature.Core.csproj",
-      "packagesPath": "C:\\Users\\taiwo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taiwo\\Desktop\\Temmie_Signature\\Temmie_Signature.Core\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Temmie_Signauture\\Temmie_Signature.Core\\Temmie_Signature.Core.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Temmie_Signauture\\Temmie_Signature.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\taiwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3753,7 +3753,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
